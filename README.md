@@ -8,4 +8,4 @@
 gangofbot/gangofbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://te.legra.ph/file/b9a9592492c3ed891131a.jpg">
+<img src="https://telegra.ph/file/e5a4ec98574816e0e2a24.jpg">
