@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 ## 🎵 Now playing
 <a href="https://spotify.com/" target="_blank"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
 
-5465350799:AAFZBDiUCxn5qe9hqoGRP8axlitZB7nRvAA
+
